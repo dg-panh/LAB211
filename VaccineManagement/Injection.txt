@@ -1,0 +1,5 @@
+IJ000000, SE150003, Covid-V005, Thu Duc, 14/05/2021, Thu Duc, 13/07/2021
+IJ000001, SE160005, Covid-V002, Quan 9, 16/08/2021, Not updated yet, Not updated yet
+IJ000002, SE140002, Covid-V002, Binh Thanh, 04/09/2021, Not updated yet, Not updated yet
+IJ000003, SE150004, Covid-V003, Dong Nai, 03/07/2021, Dong Nai, 16/09/2021
+IJ000004, SE140001, Covid-V005, Thu Duc, 04/05/2021, Thu Duc, 4/6/2021

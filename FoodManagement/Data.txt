@@ -1,0 +1,6 @@
+id, name, weight, type, place, expiredDate
+f006, tomatoes, 0.9, Vegetables, Crisper, 12/12/2021
+f007, potatoes, 1.8, Vegetables, Crisper, 5/2/2022
+f008, oolong tea, 0.5, Drinks, Door shelf, 18/11/2021
+f009, jasmine tea, 0.5, Drinks, Door shelf, 6/4/2022
+f010, crab, 3.0, Seafood, Meat keeper, 30/1/2022
